@@ -16,4 +16,5 @@ organizing their lives easily.
 
 Our Team:
 - Vanya Prokic 0300057417
-- Félix Meunier 0300060508
+- FÃ©lix Meunier 0300060508
+- Mahamane Sidi Elias 0300079393 // Added by Elias ( Is that a code ? :________  ) 
