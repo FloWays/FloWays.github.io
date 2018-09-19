@@ -1,2 +1,2 @@
 # FlowaeyProject
-- Vanja Prokic 0300057417
+- Vanya Prokic 0300057417
