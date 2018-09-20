@@ -1,4 +1,4 @@
-﻿# FlowaeyProject
+﻿FlowaeyProject
 
 Slogan:SMOOTH FLOW
 
