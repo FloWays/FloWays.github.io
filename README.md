@@ -1,6 +1,6 @@
 ﻿# FlowaeyProject
 
-Slogan: __________________________?
+Slogan:SMOOTH FLOW
 
 //This description will later be used specifically for our software, and for our
 //service overall, we need to come up with something more generic.
