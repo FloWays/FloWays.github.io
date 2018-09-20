@@ -6,6 +6,7 @@ new adress a much more pleasant experience. With one click of a button, Flowaey
 does everything for you, from organizing your mail to managing your monthly 
 subscriptions, allowing our users to organize their lives easily.
 
+
 Our Team:
 - Vanya Prokic 0300057417
 - Félix Meunier 0300060508
