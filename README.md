@@ -14,4 +14,4 @@ Our Team:
 - Jason You 0300056239
 - Farouk Ben Nejma 0300040540
 
-felix you rock 
+We all rock! Let's make this business model a reality and become the next billion dollar company!!
