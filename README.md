@@ -1,8 +1,8 @@
-﻿FlowaeyProject
+﻿floWays Project
 
-Flowaey is a free, premium quality service that helps customers keep track of 
+floWays is a free, premium quality service that helps customers keep track of 
 their mail when they move to their new home, which makes organizing mail to the 
-new adress a much more pleasant experience. With one click of a button, Flowaey 
+new adress a much more pleasant experience. With one click of a button, floWays 
 does everything for you, from organizing your mail to managing your monthly 
 subscriptions, allowing our users to organize their lives easily.
 
