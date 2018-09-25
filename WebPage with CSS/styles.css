@@ -50,7 +50,7 @@ li a:hover{
 .top{
 	background-color:#4686BE;
 	margin:auto;
-	min-width:2000;
+	min-width:1520px;
 
 }
 
@@ -72,7 +72,7 @@ color: #000;
 
 article{
 	background-color:#9ED2FF;
-	max-width:2000px;
+	max-width:2100px;
 	min-height:450px;
 	margin:auto;
 }
