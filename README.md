@@ -1,4 +1,4 @@
-FloWays Project
+﻿FloWays Project
 
 FloWays is a free, premium quality service that helps customers keep track of 
 their mail when they move to their new home, which makes organizing mail to the 
@@ -13,3 +13,5 @@ Our Team:
 - Mahamane Sidi Elias 0300079393
 - Jason You 0300056239
 - Farouk Ben Nejma 0300040540
+
+Swag
