@@ -8,8 +8,8 @@ subscriptions, allowing our users to organize their lives easily.
 
 
 Our Team:
-- Vanya Prokic 0300057417
-- Félix Meunier 0300060508
-- Mahamane Sidi Elias 0300079393
-- Jason You 0300056239
-- Farouk Ben Nejma 0300040540
+- Vanya Prokic 300057417
+- Félix Meunier 300060508
+- Mahamane Sidi Elias 300079393
+- Jason You 300056239
+- Farouk Ben Nejma 300040540
