@@ -73,6 +73,7 @@ color: #000;
 article{
 	background-color:#9ED2FF;
 	max-width:2100px;
-	min-height:450px;
+	max-height:450px;
 	margin:auto;
 }
+
