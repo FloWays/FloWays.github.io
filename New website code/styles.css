@@ -73,7 +73,7 @@ li a:hover {
 
 .card {
     background-color: #000;
-    margin-bottom: 15px;
+	margin-top:15px;
 	float: left;
     width: 50%;
 	height:540px;
