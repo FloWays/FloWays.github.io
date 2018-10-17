@@ -1,0 +1,239 @@
+[33mcommit b93e4ab2c8be88e39f31d67c624f56c746a71447[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: HRCK0 <proka2000@gmail.com>
+Date:   Tue Sep 25 19:45:54 2018 -0400
+
+    Added temp logo
+
+[33mcommit 8cd1d2ddd868f40b9ab78ba062a59aca0eca0f73[m
+Merge: 3591904 06f2b82
+Author: HRCK0 <proka2000@gmail.com>
+Date:   Tue Sep 25 19:44:24 2018 -0400
+
+    Merge https://github.com/Flowaey/FlowaeyProject
+
+[33mcommit 3591904f4446889488912ac0a6c3fcd6b3ae48c7[m
+Merge: bd43698 cf7df26
+Author: HRCK0 <proka2000@gmail.com>
+Date:   Tue Sep 25 19:44:20 2018 -0400
+
+    Merge https://github.com/Flowaey/FlowaeyProject
+    
+    # Conflicts:
+    #       index.html
+    
+    Signed-off-by: HRCK0 <proka2000@gmail.com>
+
+[33mcommit 06f2b8280b9c466a3ba688b542170b55316878c1[m
+Author: FelixMeunier <fmeun013@uottawa.ca>
+Date:   Tue Sep 25 19:42:21 2018 -0400
+
+    Worked on the html/css website
+
+[33mcommit bd436986ca27ffefd4253321e8a4559993bb3643[m
+Author: HRCK0 <proka2000@gmail.com>
+Date:   Tue Sep 25 19:41:12 2018 -0400
+
+    Added temp logo
+
+[33mcommit cf7df260b8892e47f0b362ec6380e4445a942f4c[m
+Author: FelixMeunier <fmeun013@uottawa.ca>
+Date:   Tue Sep 25 19:26:54 2018 -0400
+
+    Solved the centered text issue
+
+[33mcommit dac2df354f1876ef4a95f72c996edc0ccee658aa[m
+Author: FelixMeunier <43275931+FelixMeunier@users.noreply.github.com>
+Date:   Tue Sep 25 19:19:41 2018 -0400
+
+    Update index.html
+    
+    solved issues
+
+[33mcommit f12a5e239c289a39d50ac05f8e1be791500e13f4[m
+Merge: 5d5b094 e91c115
+Author: FelixMeunier <fmeun013@uottawa.ca>
+Date:   Tue Sep 25 19:16:28 2018 -0400
+
+    Merge https://github.com/Flowaey/FlowaeyProject
+    
+    # Conflicts:
+    #       index.html
+
+[33mcommit 5d5b0944cd766ba0cf2935e564456d329a34ab80[m
+Author: FelixMeunier <fmeun013@uottawa.ca>
+Date:   Tue Sep 25 19:15:29 2018 -0400
+
+    upper
+
+[33mcommit e91c1152d54cb209572770f314d3133456a9f1c4[m
+Author: HRCK0 <proka2000@gmail.com>
+Date:   Tue Sep 25 19:14:20 2018 -0400
+
+    lowercase
+
+[33mcommit 23450ec19d4c67c6ecfd816dd581ab2110087ba2[m
+Author: HRCK0 <proka2000@gmail.com>
+Date:   Tue Sep 25 19:11:49 2018 -0400
+
+    Testing center and name "change"
+
+[33mcommit 8151779628c488c79db7cf73ccf71ab8bb9b35e6[m
+Author: FelixMeunier <fmeun013@uottawa.ca>
+Date:   Tue Sep 25 19:10:33 2018 -0400
+
+    Added the website version with CSS
+
+[33mcommit 3df3b4f67e6d29ca80fb6398d572ff4217becd8c[m
+Author: HRCK0 <proka2000@gmail.com>
+Date:   Tue Sep 25 18:58:22 2018 -0400
+
+    Changed the name from Flowaey to floWays
+
+[33mcommit 64c6b85e9b90df8f20e0307b6104ef31790c69df[m
+Author: Jason You <jasonyou026ix@gmail.com>
+Date:   Fri Sep 21 08:11:34 2018 -0400
+
+    Signed-off-by: Jason You <jasonyou026ix@gmail.com>
+
+[33mcommit f1d17ec3e37927fd824a2f31ab4edec51461779f[m
+Author: FelixMeunier <fmeun013@uottawa.ca>
+Date:   Thu Sep 20 22:09:07 2018 -0400
+
+    Removed the CSS file
+
+[33mcommit 6f91fa7528aa0b5044e0aae15b9815f83c9a9782[m
+Author: FelixMeunier <fmeun013@uottawa.ca>
+Date:   Thu Sep 20 21:29:15 2018 -0400
+
+    Started the website!
+
+[33mcommit a53196249e8fd020b82f7219f171fe8857374b17[m
+Author: FelixMeunier <fmeun013@uottawa.ca>
+Date:   Thu Sep 20 20:39:46 2018 -0400
+
+    Adding the layout file ps: not html
+
+[33mcommit 9f8720b31cbd397bcd1d4a821dff009387ca647e[m
+Author: FelixMeunier <fmeun013@uottawa.ca>
+Date:   Thu Sep 20 20:38:56 2018 -0400
+
+    Removed layout to add it properly
+
+[33mcommit e912e27fe09890ec4f97b8d2e6ba80ef18d3d925[m
+Merge: 9b5b4f9 f2b8ae1
+Author: FelixMeunier <fmeun013@uottawa.ca>
+Date:   Thu Sep 20 20:37:54 2018 -0400
+
+    Merge https://github.com/Flowaey/FlowaeyProject
+
+[33mcommit 9b5b4f969d8338a6da95ba5ae667fad5b57014e2[m
+Author: FelixMeunier <fmeun013@uottawa.ca>
+Date:   Thu Sep 20 20:37:36 2018 -0400
+
+    This is the layout I made. PS: this is not html XD
+
+[33mcommit f2b8ae11e77b3a33c3488a2f0643f7d4728068ba[m
+Author: Jason You <jasonyou026ix@gmail.com>
+Date:   Thu Sep 20 15:47:08 2018 -0400
+
+    Signed-off-by: Jason You <jasonyou026ix@gmail.com>
+
+[33mcommit 18db9f0d2083280093f1425bb99b2b1299542b5d[m
+Author: Farouk-bennejma <41647598+Farouk-bennejma@users.noreply.github.com>
+Date:   Thu Sep 20 14:23:25 2018 -0400
+
+    Update README.md
+
+[33mcommit 0cc9daa932fa3bed0a864c823f5d2f549a2241c2[m
+Author: Farouk-bennejma <farouk.benejma@gmail.com>
+Date:   Thu Sep 20 14:20:22 2018 -0400
+
+    Hi fuckers !
+
+[33mcommit 1ec17143a509ec0791060e1cfd80ef828fcd52c7[m
+Author: FelixMeunier <fmeun013@uottawa.ca>
+Date:   Thu Sep 20 12:40:09 2018 -0400
+
+    Just added more space between paragraphs
+
+[33mcommit cdadbd79a1f07b4667413c18cd054f27c2727da1[m
+Author: FelixMeunier <fmeun013@uottawa.ca>
+Date:   Thu Sep 20 12:36:19 2018 -0400
+
+    Removed everything not needed and edited the description
+
+[33mcommit acb6fc68d3f1a27ce3063111ea2ec7baa69187fc[m
+Author: Jason You <jasonyou026ix@gmail.com>
+Date:   Wed Sep 19 20:06:04 2018 -0400
+
+    Signed-off-by: Jason You <jasonyou026ix@gmail.com>
+
+[33mcommit d3ffb86ef2bb84c221eaae2c0576dbed9b69956d[m
+Author: Jason You <jasonyou026ix@gmail.com>
+Date:   Wed Sep 19 20:04:18 2018 -0400
+
+    Signed-off-by: Jason You <jasonyou026ix@gmail.com>
+    SLOGAN ADDED
+
+[33mcommit e41cd6c6498760506ce9b81d9ce8921ab4878115[m
+Author: Jason You <jasonyou026ix@gmail.com>
+Date:   Wed Sep 19 20:03:04 2018 -0400
+
+    this is to make sure this is working remotely (jason)
+    
+    Signed-off-by: Jason You <jasonyou026ix@gmail.com>
+
+[33mcommit 983d859b92ab370c26989e2bb951a0ac2318b64e[m
+Author: jyou044 <43392863+jyou044@users.noreply.github.com>
+Date:   Wed Sep 19 18:28:20 2018 -0400
+
+    Update README.md
+
+[33mcommit 170e09087094fc1c09d0287968d4c75dd7c48bed[m
+Author: FelixMeunier <fmeun013@uottawa.ca>
+Date:   Wed Sep 19 15:42:54 2018 -0400
+
+    Minor changes in description
+    No it is not a code
+
+[33mcommit 7b812541c7f1e89b6c08b9bb62d3d290bf11cc1d[m
+Author: Super0silveR <43383882+Super0silveR@users.noreply.github.com>
+Date:   Wed Sep 19 18:49:14 2018 +0100
+
+    Update README.md
+
+[33mcommit 8171ca55026170dae7f733952f986f6e76c2d2cc[m
+Author: HRCK0 <proka2000@gmail.com>
+Date:   Wed Sep 19 13:45:57 2018 -0400
+
+    Chnaged the description a bit. Feel free to edit it even further
+
+[33mcommit 7be02d1ff42787e1fb0ef41bb37a13af39c064f7[m
+Author: FelixMeunier <fmeun013@uottawa.ca>
+Date:   Wed Sep 19 10:25:18 2018 -0400
+
+    Added the company description (feel free to edit it)
+
+[33mcommit 1b28247969125eab741b176402a342645f8a9998[m
+Author: FelixMeunier <fmeun013@uottawa.ca>
+Date:   Wed Sep 19 10:05:15 2018 -0400
+
+    Added my name and student number
+
+[33mcommit e6e383527bf25516480b2536dc8d6d2f8096bc40[m
+Author: HRCK0 <proka2000@gmail.com>
+Date:   Wed Sep 19 09:10:54 2018 -0400
+
+    Changed my name from Vanja to Vanya
+
+[33mcommit 994f0b84f4add4a0c26730a0d18a2407f716a759[m
+Author: HRCK0 <proka2000@gmail.com>
+Date:   Wed Sep 19 08:59:23 2018 -0400
+
+    Added my name and student ID
+
+[33mcommit 955b96ff96a714d4a973423861793da7b63d84a5[m
+Author: FelixMeunier <43275931+FelixMeunier@users.noreply.github.com>
+Date:   Tue Sep 18 20:19:15 2018 -0400
+
+    Initial commit
