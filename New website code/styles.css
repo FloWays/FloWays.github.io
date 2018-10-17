@@ -73,12 +73,16 @@ li a:hover {
 
 .card {
     background-color: #000;
-
     margin-bottom: 15px;
-	
-	
 	float: left;
-    width: 100%;
+    width: 50%;
+	height:540px;
+}
+
+img{
+width:100%;
+	
+	
 }
 
 .cardtext{
