@@ -1,7 +1,7 @@
 
 
 body{
-background-color:#fff;	
+background-color:#333;	
 margin:0;
 	
 }
@@ -11,8 +11,9 @@ margin:0;
 .header {
     padding: 0px;
     text-align: center;
-    background-color: #333;
+    background: #333;
 	display:inline;
+	
 	
 }
 
@@ -29,11 +30,6 @@ h1{
 /* Navigation Bar*/
 ul {
     list-style-type: none;
-   
-    background:#333;
-	
-	
-	
 }
 
 li {
@@ -44,7 +40,7 @@ li a {
     display: block;
     color: white;
     text-align: center;
-    padding: 14px 16px;
+    padding: 14px 16px 14px 16px;
     text-decoration: none;
 }
 
@@ -57,7 +53,7 @@ li a:hover {
 }
 
 .navbar{
-	background-color: #333;
+	background-color: #DAA520;
 	overflow:hidden;
 	
 }
