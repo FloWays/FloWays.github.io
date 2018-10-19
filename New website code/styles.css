@@ -1,4 +1,5 @@
 
+@import url('https://fonts.googleapis.com/css?family=Dancing+Script');
 
 body{
 background-color:#333;	
@@ -13,7 +14,16 @@ margin:0;
     text-align: center;
     background: #333;
 	display:inline;
+	font-family: dancing script;
 	
+	
+}
+
+.fontF {
+	font-family: french script mt;
+	display:inline;
+	font-size:80px;
+
 	
 }
 
@@ -53,7 +63,7 @@ li a:hover {
 }
 
 .navbar{
-	background-color: #DAA520;
+	background-color: #1a1a1a;
 	overflow:hidden;
 	
 }
@@ -62,7 +72,7 @@ li a:hover {
 	position: fixed;
 	top: 0;
 	width: 100%
-	
+
 }
 
 /* Navigation Bar*/
@@ -73,6 +83,14 @@ li a:hover {
 	float: left;
     width: 50%;
 	height:540px;
+	z-index:-5;
+}
+
+.nonavbar{
+	position:relative;
+	top:63px;
+	
+	
 }
 
 img{
@@ -84,5 +102,6 @@ width:100%;
 .cardtext{
 	padding:20px;
 	color: #fff;
+	font-family: open sans;
 	
 }
