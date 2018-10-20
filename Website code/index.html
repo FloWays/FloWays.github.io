@@ -4,61 +4,187 @@
 	<head>
 		
 		<link rel="stylesheet" href="styles.css">
-		<title>FloWays</title>
+		<title>floWays</title>
 	</head>
 
 	<body>
 
 		<header>
-			<table class = top>
-				<tr>
-					<td>
-						<h1 id=title>FloWays</h1>
-					</td>
-					<td><pre>		</pre></td>
-					<td><nav class = menu>
-			<ul>
-				<li class = menu><a href = index.html>Home</a></li>
-				<li class = menu><a href = products.html>Products</a></li>
-				<li class = menu><a href = partnerships.html>Partnerships</a></li>
-				<li class = menu><a href = aboutus.html>About Us</a></li>
-				<li class = menu><a href = support.html>Support</a></li>
-			</ul>
-		</nav></td>
-				<td><pre>		</pre></td>
-					<td>
-						<a href = joinnow.html class = button>Join Now</a>
-					</td>
-				</tr>
-			</table>			
-			<br/>
+			<div class="header">
+				<h1><div class="fontF">F</div>loWays</h1>
+			</div>
+			
+			<div id="navbar" class="navbar">
+				<ul>
+					<li><a class="active" href="#home">Home</a></li>
+					<li><a href="#products">Products</a></li>
+					<li><a href="#partnerships">Partnerships</a></li>
+					<li><a href="#aboutus">About Us</a></li>
+					<li><a href="#support">Support</a></li>
+				</ul
+			</div>
+		
 		</header>
 
 		
-
-		<br/>
-
-		<article>
-		<table class = article>
-		<tr><td><pre>		</pre></td>
-			<td>
+	
+	
+	
+		<div class = "cardparent" id="cardparent">
+			<div class="card" id="card">
+				<div class="cardtext">
+					<h2>Join FloWays Today!</h2>
+					<p>
+					FloWays is a free, premium quality service that helps customers 
+				keep track of their mail when they move to their new home, 
+				which makes organizing mail to the new address a much more 
+				pleasant experience. With one click of a button, FloWays does 
+				everything for you, from organizing your mail to managing your
+				monthly subscriptions, allowing its users to organize their lives 
+				easily.
+					</p>
+					
+					<br/>
+				
+						
+					<a href = joinnow.html class = "bigbutton">Learn More</a>
+				
+					
+				</div>
+			</div>
 			
-			<h2>Join FloWays Today!</h2>
+			<div class="card" id="card2">
+				<img src="example.jpg">
+			</div>
+		</div>
+		
+		
+		
+		
+		
+		
+		<div class = "cardparent" id="cardparent2">
+			<div class="card" id="card3">
+				<img src="example2.jpg">
+			</div>
 			
-			<p>FloWays is a free, premium quality service that helps customers 
-			keep track of their mail when they move to their new home, 
-			which makes organizing mail to the new address a much more 
-			pleasant experience. With one click of a button, FloWays does 
-			everything for you, from organizing your mail to managing your
-			monthly subscriptions, allowing its users to organize their lives 
-			easily.</p>
+			<div class="card" id="card4">
+				<div class="cardtext">
+					<h2>Products</h2>
+					<br>
+					<h3>floMail</h3>
 			
-			<br/>
+					<p>Create a high-quality management system, that allows you to manage all of your prepaid mail services in one place.
+					From important city mail, to personal services, it is all in one place, and with one click of a button you can change
+					your adress for all of them. Say goodby to missdelivered mail - say hello to floMail today!</p>
+					<br/>
+					<a href = getflomail.html class = "button">Get floMail</a>
 			
-			<a href = joinnow.html class = button>Learn More</a>
-			</td><td><pre>		</pre>
-			</td></tr>
-		</article>
+					<br/><br/><br/>
+			
+					<h3>floSub</h3>
+			
+					<p>Manage all of your monthly subscribtions in one place, including: Spotify, Netflix, Amazon Prime, 
+					Bell, Rogers, Twitch, Canada Post, uOttawa prepaid services, Apple Music, Google Play and many more!
+					Easily upgrade, downgrade or even cancel your plans in one place. Get exclusive offers every month
+					from our partners, such as 3-month free trial for Amazon Prime. Join now, and make your organization
+					process much easier and more fun!</p>
+					<br/>
+					<a href = joinflosub.html class = "button">Join floSub</a>
+				</div>
+			</div>
+		</div>
+		
+		
+		
+		
+		<div class = "cardparent" id="cardparent3">
+			<div class="card" id="card">
+				<div class="cardtext">
+					<h2>Partnerships</h2>
+					<p>
+					As a company, FloWays strives to provide premium services to 
+			businesses and academic institutions. Moving forward, FloWays plans to
+			partner with local post-secondary institutions and companies.
+					</p>
+					
+					<br/>
+				
+						
+					<a href = joinnow.html class = "button">Full list of our partners</a>
+				
+					
+				</div>
+			</div>
+			
+			<div class="card" id="card2">
+				<img src="example.jpg">
+			</div>
+		</div>
+		
+		
+		
+		<div class = "cardparent" id="cardparent4">
+			<div class="card" id="card3">
+				<img src="example.jpg">
+			</div>
+			
+			<div class="card" id="card4">
+				<div class="cardtext">
+					<h2>About Us</h2>
+					
+			
+					<p>We are a team of five software engineers developing a product that will increase the ease of use of mail delivery and subscription services for customers. 
+					   Starting out as a school project, we hope to expand our services to a wider range of users.</p>
+				
+				</div>
+			</div>
+		</div>
+		
+		
+		
+		
+		<div class = "cardparent" id="cardparent5">
+			<div class="card">
+				<div class="cardtext">
+					<h2>Contact Us</h2>
+					<p>Contact the team to get direct support</p>
+					<form method="POST" action="https://formspree.io/fefelix2001@gmail.com">
+					First name:<br>
+					<input type="text" name="firstname">
+					<br>
+					Last name:<br>
+					<input type="text" name="lastname">
+					<br>
+					E-mail:<br>
+					<input type="text" name="email">
+					<br>
+					Content:<br>
+					<textarea rows=5 cols=50 name="subject"></textarea>
+					<br> <br>
+					<input type="submit" value="Submit" class="button" >
+					</form>
+					
+					
+				
+					
+				</div>
+			</div>
+			
+			<div class="card">
+				<img src="example.jpg">
+			</div>
+			
+		</div>
+			
+			
+			
+		
+		
+		
+		
 	</body>
+	
+	<script src="myScript.js"></script>
 
 </html>
