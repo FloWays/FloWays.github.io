@@ -34,3 +34,4 @@ function myFunction() {
 	card5.classList.remove("nonavbar");
   }
 }
+

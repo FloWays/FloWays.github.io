@@ -59,9 +59,7 @@ li a:hover {
     background-color: #02A3FF;
 }
 
-.active {
-    background-color: #017ABF;
-}
+
 
 .navbar{
 	background-color: #01527F;
@@ -149,4 +147,16 @@ width:100%;
 	color: #ffff00;
 	background: #02A3FF;
 	border: 1px solid #fff;
+}
+
+.bigbutton:hover{
+	color: #ffff00;
+	background: #02A3FF;
+	border: 1px solid #fff;
+	
+}
+
+.anchor{
+	float:left;
+	
 }
