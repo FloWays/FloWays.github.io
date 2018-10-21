@@ -1,0 +1,16 @@
+The color palette for the website is: #64B8FF, #01527F, #02A3FF, #FFFFFF, #282828
+
+
+The background color will be #FFFFFF
+
+The backgroud color for an article will be #282828
+
+
+The navigation bar will be #01527F
+
+The buttons will be #02A3FF
+
+The navigation bar links and the buttons will be #64B8FF when they are hovered
+
+
+The font for text will be open sans
