@@ -12,21 +12,11 @@ text-align: justify;
 
 .header {
     padding: 0px;
-    text-align: center;
     background: #282828;
-	display:inline;
-	font-family: dancing script;
-	
-	
+	display: inline;
+	text-align: center;
 }
 
-.fontF {
-	font-family: french script mt;
-	display:inline;
-	font-size:80px;
-
-	
-}
 
 h1{
 	font-size:60px;
@@ -51,20 +41,18 @@ li a {
     display: block;
     color: white;
     text-align: center;
-    padding: 14px 16px 14px 16px;
+    padding: 8px 16px 8px 16px;
     text-decoration: none;
 }
 
 li a:hover {
-    background-color: #02A3FF;
+    background-color: #DAA520;
 }
 
-.active {
-    background-color: #017ABF;
-}
+
 
 .navbar{
-	background-color: #01527F;
+	background-color: #282828;
 	overflow:hidden;
 	
 }
@@ -79,12 +67,17 @@ li a:hover {
 /* Navigation Bar*/
 
 .card {
-
 	float: left;
     width: 50%;
 	height:50%;
+}
 
+.logo{
 	
+	width: 40px;
+	height: 40px;
+	margin-bottom: 8px;
+	/*padding: 0px 0px 8px 0px;*/
 }
 
 .cardparent{
@@ -99,7 +92,7 @@ li a:hover {
 
 .nonavbar{
 	position:relative;
-	top:75px;
+	top:66px;
 	
 	
 }
@@ -126,7 +119,7 @@ width:100%;
 	font-size: 100%;
 	background: #017ABF;
 	color: #fff;
-	border: 1px solid #3366cc;
+	/*border: 1px solid #3366cc;*/
 	border-radius: 10px;
 	
 }
@@ -140,13 +133,25 @@ width:100%;
 	font-size: 150%;
 	background: #017ABF;
 	color: #fff;
-	border: 1px solid #3366cc;
+	/*border: 1px solid #3366cc;*/
 	border-radius: 10px;
 	
 }
 
 .button:hover{
 	color: #ffff00;
-	background: #02A3FF;
-	border: 1px solid #fff;
+	background: #DAA520;
+	/*border: 1px solid #fff;*/
+}
+
+.bigbutton:hover{
+	color: #ffff00;
+	background: #DAA520;
+	/*border: 1px solid #fff;*/
+	
+}
+
+.anchor{
+	float:left;
+	
 }
