@@ -21,16 +21,18 @@ text-align: justify;
 h1{
 	font-size:60px;
 	color:#DAA520;
+	
 }
 
 
 
-/*Header*/
+/*End of header*/
 
 
 /* Navigation Bar*/
 ul {
     list-style-type: none;
+	
 }
 
 li {
@@ -43,6 +45,7 @@ li a {
     text-align: center;
     padding: 8px 16px 8px 16px;
     text-decoration: none;
+	
 }
 
 li a:hover {
@@ -64,11 +67,17 @@ li a:hover {
 
 }
 
-/* Navigation Bar*/
+/* End of navigation Bar*/
 
 .card {
 	float: left;
     width: 50%;
+	height:50%;
+}
+
+.longcard {
+	float: left;
+    width: 100%;
 	height:50%;
 }
 
@@ -147,11 +156,26 @@ width:100%;
 .bigbutton:hover{
 	color: #ffff00;
 	background: #DAA520;
-	/*border: 1px solid #fff;*/
-	
+	/*border: 1px solid #fff;*/	
 }
 
 .anchor{
-	float:left;
-	
+	float:left;	
+}
+
+.flipcardParent{
+	width: 100%;
+	height: 300px;	
+}
+
+.flipcard{
+	width: 16%;
+	height: 100%;
+	float: left;
+	margin: 2%;	
+}
+
+.flipcard h3{
+	color: white;
+	text-align: center;	
 }
